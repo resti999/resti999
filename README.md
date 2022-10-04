@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=resti999&show_icons=true&theme=dark)
 
+---
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=spookey)](https://solved.ac/spookey)
 
 
