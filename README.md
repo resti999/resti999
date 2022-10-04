@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=resti999%20&fontSize=90)
 
 <div align="center">Github Stats</div>
+<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=resti999&show_icons=true&theme=dark)</div>
+<div align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=spookey)](https://solved.ac/spookey)</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=resti999&show_icons=true&theme=dark)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=spookey)](https://solved.ac/spookey)
