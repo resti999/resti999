@@ -28,4 +28,8 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=spookey)](https://solved.ac/spookey)
 
 
+---
+***
+
+
 
