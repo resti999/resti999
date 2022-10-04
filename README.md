@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=resti999%20&fontSize=90)
 
-<
+<hr>
 
 <div align="center">Github Stats</div>
 
