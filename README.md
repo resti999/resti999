@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <div align="center">Github Stats</div>
 
-<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=resti999&show_icons=true&theme=dark)</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=resti999&show_icons=true&theme=dark)
 
-<div align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=spookey)](https://solved.ac/spookey)</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=spookey)](https://solved.ac/spookey)
 
 
 
